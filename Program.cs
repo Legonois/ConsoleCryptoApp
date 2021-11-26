@@ -10,12 +10,16 @@ namespace ConsoleHashingApp
     {
         static void Main(string[] args)
         {
+
+            String Version = "Version Alpha 0.02";
+
+
             Console.WriteLine("+------------------------------------------------+");
             Console.WriteLine("|   Welcome to ConsoleHashingApp                 |");
             Console.WriteLine("|   Made by Lunar HUE                            |");
             Console.WriteLine("|   LunarHUE.com                                 |");
             Console.WriteLine("|                                                |");
-            Console.WriteLine("|   Version Alpha 1.01                           |");
+            Console.WriteLine($"|   {Version}                           |");
             Console.WriteLine("+------------------------------------------------+");
             Console.WriteLine("Enter command. Use help for a list of commands");
 
