@@ -1,0 +1,14 @@
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\obj\Debug\netcoreapp3.1\ConsoleHashingApp.csproj.AssemblyReference.cache
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\obj\Debug\netcoreapp3.1\ConsoleHashingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\obj\Debug\netcoreapp3.1\ConsoleHashingApp.AssemblyInfoInputs.cache
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\obj\Debug\netcoreapp3.1\ConsoleHashingApp.AssemblyInfo.cs
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\obj\Debug\netcoreapp3.1\ConsoleHashingApp.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\bin\Debug\netcoreapp3.1\ConsoleHashingApp.exe
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\bin\Debug\netcoreapp3.1\ConsoleHashingApp.deps.json
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\bin\Debug\netcoreapp3.1\ConsoleHashingApp.runtimeconfig.json
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\bin\Debug\netcoreapp3.1\ConsoleHashingApp.runtimeconfig.dev.json
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\bin\Debug\netcoreapp3.1\ConsoleHashingApp.dll
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\bin\Debug\netcoreapp3.1\ConsoleHashingApp.pdb
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\obj\Debug\netcoreapp3.1\ConsoleHashingApp.dll
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\obj\Debug\netcoreapp3.1\ConsoleHashingApp.pdb
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\obj\Debug\netcoreapp3.1\ConsoleHashingApp.genruntimeconfig.cache
