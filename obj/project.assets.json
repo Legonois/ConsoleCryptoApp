@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wesle\\source\\repos\\ConsoleHashingApp\\ConsoleHashingApp\\ConsoleHashingApp.csproj",
-      "projectName": "ConsoleHashingApp",
-      "projectPath": "C:\\Users\\wesle\\source\\repos\\ConsoleHashingApp\\ConsoleHashingApp\\ConsoleHashingApp.csproj",
+      "projectUniqueName": "C:\\Users\\wesle\\source\\repos\\ConsoleHashingApp\\ConsoleHashingApp\\CryptoConsoleApp.csproj",
+      "projectName": "CryptoConsoleApp",
+      "projectPath": "C:\\Users\\wesle\\source\\repos\\ConsoleHashingApp\\ConsoleHashingApp\\CryptoConsoleApp.csproj",
       "packagesPath": "C:\\Users\\wesle\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\wesle\\source\\repos\\ConsoleHashingApp\\ConsoleHashingApp\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zPm+DHhdpqzmk6+wzsz9fTffoLSX902wiqkvS+Skjrc8YNlG2bY+qzHQ6Lv63qt1rMhoNesD0VsCoF4eRcQYiw==",
+  "dgSpecHash": "9CyJNU1+Eq18/k8GEAnS/zIFxZCvozer2HWuTWm/AYn2mob1+hpM4KvckLaeigrZ165cEQH1SKMk8ivbNLngbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wesle\\source\\repos\\ConsoleHashingApp\\ConsoleHashingApp\\ConsoleHashingApp.csproj",
+  "projectFilePath": "C:\\Users\\wesle\\source\\repos\\ConsoleHashingApp\\ConsoleHashingApp\\CryptoConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

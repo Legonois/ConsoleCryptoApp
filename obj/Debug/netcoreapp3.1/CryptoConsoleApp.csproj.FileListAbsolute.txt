@@ -1,0 +1,14 @@
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\bin\Debug\netcoreapp3.1\CryptoConsoleApp.exe
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\bin\Debug\netcoreapp3.1\CryptoConsoleApp.deps.json
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\bin\Debug\netcoreapp3.1\CryptoConsoleApp.runtimeconfig.json
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\bin\Debug\netcoreapp3.1\CryptoConsoleApp.runtimeconfig.dev.json
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\bin\Debug\netcoreapp3.1\CryptoConsoleApp.dll
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\bin\Debug\netcoreapp3.1\CryptoConsoleApp.pdb
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\obj\Debug\netcoreapp3.1\CryptoConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\obj\Debug\netcoreapp3.1\CryptoConsoleApp.AssemblyInfoInputs.cache
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\obj\Debug\netcoreapp3.1\CryptoConsoleApp.AssemblyInfo.cs
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\obj\Debug\netcoreapp3.1\CryptoConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\obj\Debug\netcoreapp3.1\CryptoConsoleApp.dll
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\obj\Debug\netcoreapp3.1\CryptoConsoleApp.pdb
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\obj\Debug\netcoreapp3.1\CryptoConsoleApp.genruntimeconfig.cache
+C:\Users\wesle\source\repos\ConsoleHashingApp\ConsoleHashingApp\obj\Debug\netcoreapp3.1\CryptoConsoleApp.csproj.AssemblyReference.cache
